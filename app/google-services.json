@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245671578683",
+    "firebase_url": "https://gatifoundation-294fd.firebaseio.com",
+    "project_id": "gatifoundation-294fd",
+    "storage_bucket": "gatifoundation-294fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245671578683:android:ada4443089199a68",
+        "android_client_info": {
+          "package_name": "com.example.shreshth.gatifoundation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245671578683-m9jdfa7p8qou9mvv9sns3k2jqa6k0ouu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shreshth.gatifoundation",
+            "certificate_hash": "f88c2538bd0e5042e3745d9d9fd3622096231298"
+          }
+        },
+        {
+          "client_id": "245671578683-02lvqt08ukerst1g7gv7v43pjea40f18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDHroXsOnIQvyXIP23A9H-kPfsosrx2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245671578683-02lvqt08ukerst1g7gv7v43pjea40f18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
